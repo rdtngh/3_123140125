@@ -1,4 +1,4 @@
-# Tugas Pengembangan Aplikasi Mobile RB 
+# Tugas 3 Pengembangan Aplikasi Mobile RB 
 
 **Nama:** Raditya Alrasyid Nugroho  
 **NIM:** 123140125  
@@ -17,7 +17,7 @@ Aplikasi ini memiliki beberapa fitur utama:
   - Email
   - Nomor telepon
   - Lokasi
-- Tombol **Contact / Detail Profile**12
+- Tombol **Contact / Detail Profile**
 
 Aplikasi menggunakan **tema warna hijau** untuk memberikan tampilan yang lebih modern dan fresh.
 
