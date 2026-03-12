@@ -19,8 +19,6 @@ Aplikasi ini memiliki beberapa fitur utama:
   - Lokasi
 - Tombol **Contact / Detail Profile**
 
-Aplikasi menggunakan **tema warna hijau** untuk memberikan tampilan yang lebih modern dan fresh.
-
 ---
 
 ## 🧩 Komponen UI yang Digunakan
