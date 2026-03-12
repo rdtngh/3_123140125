@@ -73,7 +73,7 @@ Project ini dibuat menggunakan teknologi berikut:
 ## 🚀 Cara Menjalankan Project
 
 1. Clone repository ini
-git clone https://github.com/username/TugasPAM3.git
+git clone https://github.com/rdtngh/3_123140125.git
 
 2. Buka project menggunakan **Android Studio**
 
